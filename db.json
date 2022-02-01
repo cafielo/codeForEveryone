@@ -7,7 +7,7 @@
     "numOfLikes": 35,
     "price": 250000,
     "title": "동서가구 4인쇼파",
-    "thumbnailURL": "http://placeimg.com/640/480/fashion",
+    "thumbnailURL": "http://source.unsplash.com/300x300/?sofa",
     "numOfChats": 8
   },
   {
@@ -17,7 +17,7 @@
     "numOfLikes": 35,
     "price": 80000,
     "title": "삼성 TV 모니터 32인치",
-    "thumbnailURL": "http://placeimg.com/640/480/fashion",
+    "thumbnailURL": "http://source.unsplash.com/300x300/?tv",
     "numOfChats": 8
   },
   {
@@ -27,7 +27,7 @@
     "numOfLikes": 35,
     "price": 70000,
     "title": "스탠드",
-    "thumbnailURL": "http://placeimg.com/640/480/fashion",
+    "thumbnailURL": "http://source.unsplash.com/300x300/?stand",
     "numOfChats": 8
   },
   {
@@ -37,7 +37,7 @@
     "numOfLikes": 35,
     "price": 850000,
     "title": "까사미아 3인쇼파",
-    "thumbnailURL": "http://placeimg.com/640/480/fashion",
+    "thumbnailURL": "http://source.unsplash.com/300x300/?sofa",
     "numOfChats": 8
   },
   {
@@ -47,7 +47,7 @@
     "numOfLikes": 35,
     "price": 50000,
     "title": "거실장 및 협탁",
-    "thumbnailURL": "http://placeimg.com/640/480/fashion",
+    "thumbnailURL": "http://source.unsplash.com/300x300/?furniture",
     "numOfChats": 8
   },
   {
@@ -57,7 +57,7 @@
     "numOfLikes": 35,
     "price": 2500000,
     "title": "맥북프로 2019 16인치",
-    "thumbnailURL": "http://placeimg.com/640/480/fashion",
+    "thumbnailURL": "http://source.unsplash.com/300x300/?mac",
     "numOfChats": 8
   },
   {
@@ -67,7 +67,7 @@
     "numOfLikes": 35,
     "price": 130000,
     "title": "이케아 책상",
-    "thumbnailURL": "http://placeimg.com/640/480/fashion",
+    "thumbnailURL": "http://source.unsplash.com/300x300/?table",
     "numOfChats": 8
   },
   {
@@ -77,7 +77,7 @@
     "numOfLikes": 35,
     "price": 400000,
     "title": "삼성 UHD 43인치",
-    "thumbnailURL": "http://placeimg.com/640/480/fashion",
+    "thumbnailURL": "http://source.unsplash.com/300x300/?tv",
     "numOfChats": 8
   },
   {
@@ -87,7 +87,7 @@
     "numOfLikes": 35,
     "price": 330000,
     "title": "쇼파",
-    "thumbnailURL": "http://placeimg.com/640/480/fashion",
+    "thumbnailURL": "http://source.unsplash.com/300x300/?sofa",
     "numOfChats": 8
   },
   {
@@ -97,7 +97,7 @@
     "numOfLikes": 35,
     "price": 350000,
     "title": "이케아 바드홀마 식탁",
-    "thumbnailURL": "http://placeimg.com/640/480/fashion",
+    "thumbnailURL": "http://source.unsplash.com/300x300/?table",
     "numOfChats": 8
   },
   {
@@ -107,9 +107,9 @@
     "numOfLikes": 35,
     "price": 20000,
     "title": "에어 프라이어",
-    "thumbnailURL": "http://placeimg.com/640/480/fashion",
+    "thumbnailURL": "http://source.unsplash.com/300x300/?kitchen",
     "numOfChats": 8
   }
-  ]
+]
 }
 
